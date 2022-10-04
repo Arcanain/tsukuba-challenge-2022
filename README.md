@@ -15,4 +15,4 @@ tsukuba-challenge-2022
 ![ハードウェア構成](https://user-images.githubusercontent.com/52307432/193825902-794bf607-b4e0-4597-9202-ab8302fe9f9b.jpg)
 
 # Software composition
-
+![ソフトウェア構成](https://user-images.githubusercontent.com/52307432/193833303-a0f18b34-39f6-401a-9b6b-771b5588a3dc.jpg)
